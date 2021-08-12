@@ -22,7 +22,7 @@ Models used:
 ## Results 
 
 **Naive Random Oversampling results:**
-- Accuracy: 65.4%
+- Accuracy: 65.5%
 - Precision High Risk: 1%
 - Precision Low Risk: 100%
 - Recall (Sensitivity) High Risk: 72%
@@ -76,8 +76,8 @@ Models used:
 - Accuracy: 93.2%
 - Precision High Risk: 9%
 - Precision Low Risk: 100%
-- Recall (Sensitivity) High Risk: 92%
-- Recall (Sensitivity) Low Risk: 94%
+- Recall (Sensitivity) High Risk: 94%
+- Recall (Sensitivity) Low Risk: 92%
 
 <p align="center">
 <img width="1353" alt="ensemble" src="https://github.com/ClayMack/Credit_Risk_Analysis/blob/main/screenshots/Easy%20Ensemble%20AdaBoost%20Classifier.png">
