@@ -84,3 +84,4 @@ Models used:
 
 ## Summary: 
 
+Since we are looking for a model to predict credit risk, we are trying to identify a model that has high accuracy score and good balance of precision and recall scores. The first four models have accuracy and recall scores significantly lower than the Balanced Random Forest and the Easy Ensemble classifier models. A good and reliable model will have balance of precision and recall, which is why I recommend the ensemble classifiers over the first four models. The Easy Ensemble had the best results of all the models. This is because it has the highest accuracy score, which means it detects almost all high-risk credit, and the best balance of precision and recall scores. Because of the low values for the high-risk precision scores on all the models, you may consider evaluating other models for further improvement.
